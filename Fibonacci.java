@@ -4,7 +4,7 @@ public class Fibonacci {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Give number to caculate sum of the terms up to");
+		System.out.print("Give number to calculate sum of the terms up to");
 		int num = sc.nextInt();	
 		int x = 1;
 		int y = 1;
